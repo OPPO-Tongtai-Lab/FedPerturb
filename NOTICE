@@ -1,0 +1,9 @@
+FedPerturb
+Copyright 2023 OPPO
+
+Code in blades is adapted from https://github.com/lishenghui/blades 
+We mainly made the following changes on blades
+1. Implemented the FLAME defense scheme
+2. Implemented Constscale, minmax and minsum attack schemes, and innovatively designed Fedperturb.
+3. Added several model implementations.
+4. Use Dirichlet function to simulate non-iid.
